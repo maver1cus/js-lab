@@ -19,3 +19,7 @@ Car.prototype.turnLeft = function() {
 Car.prototype.toString = function() {
   console.log(`car`);
 }
+
+Car.create = function() {
+  return new this;
+}

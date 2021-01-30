@@ -24,3 +24,6 @@ combatCarEs6.toString();
 const combatCarEs5 = new CombatCarEs5();
 combatCarEs5.fire();
 combatCarEs5.toString();
+
+const carEs6Create = CarEs6.create();
+const carEs5Create = CarEs5.create();
