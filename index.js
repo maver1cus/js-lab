@@ -1,5 +1,5 @@
-import CarEs6 from './src/car.js6.js';
-import CarEs5 from './src/car.js5.js';
+import CarEs6 from './src/car.es6';
+import CarEs5 from './src/car.es5';
 
 const carEs6 = new CarEs6();
 

@@ -1,19 +1,17 @@
 export default class Car {
-    ride(){
+    ride() {
         console.log(`ride`);
     }
 
-    stop(){
+    stop() {
         console.log(`stop`);
     }
 
-
-    turnRight(){
-        console.log(`ride`);
+    turnRight() {
+        console.log(`turnRight`);
     }
 
-
-    turnLeft(){
+    turnLeft() {
         console.log(`turnLeft`);
     }
 }
