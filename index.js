@@ -1,5 +1,5 @@
-import CarEs6 from './src/car.es6.js';
-import CarEs5 from './src/car.es5.js';
+import CarEs6 from "./src/car.es6.js";
+import CarEs5 from "./src/car.es5.js";
 import CombatCarEs6 from "./src/combat-car.es6.js";
 import CombatCarEs5 from "./src/combat-car.es5.js";
 

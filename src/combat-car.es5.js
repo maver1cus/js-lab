@@ -1,4 +1,4 @@
-import Car from './car.es5.js'
+import Car from "./car.es5.js";
 
 export default function CombatCar() {
   Car.apply(this);
