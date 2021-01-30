@@ -15,3 +15,7 @@ Car.prototype.turnRight = function() {
 Car.prototype.turnLeft = function() {
   console.log(`turnLeft`);
 }
+
+Car.prototype.toString = function() {
+  console.log(`car`);
+}
