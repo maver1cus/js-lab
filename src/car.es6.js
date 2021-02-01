@@ -20,6 +20,6 @@ export default class Car {
   }
 
   static create() {
-    return new this;
+    return new Car();
   }
 }

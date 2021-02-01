@@ -21,5 +21,5 @@ Car.prototype.toString = function() {
 }
 
 Car.create = function() {
-  return new this;
+  return new Car();
 }
