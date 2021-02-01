@@ -18,4 +18,8 @@ export default class Car {
   toString() {
     console.log(`car`);
   }
+
+  static create() {
+    return new Car();
+  }
 }
